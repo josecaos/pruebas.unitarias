@@ -1,2 +1,3 @@
 # pruebas.unitarias
-Colección de Pruebas
+
+Colección de pruebas unitarias hechas con "Jest" en javascript

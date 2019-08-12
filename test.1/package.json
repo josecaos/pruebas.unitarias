@@ -1,0 +1,14 @@
+{
+  "name": "test.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "funciones.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
